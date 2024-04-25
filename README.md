@@ -1,2 +1,7 @@
-### Hello World
-![I](https://media.discordapp.net/attachments/1114282263803338914/1190666807040823336/20231230_114035.png?ex=65a2a1e0&is=65902ce0&hm=a6b807f19a3a9eb922753e99e66d3cf18b72532eedaae216c24cdc53a142882f&)![I1](https://media.discordapp.net/attachments/1114282263803338914/1190666807267295232/20231230_114210.png?ex=65a2a1e0&is=65902ce0&hm=0a6dc0a278f144844b832195504d60f114d4313da46349d1178f54df788c9a94&)
+# Oi, Eu Sou O Pitu.
+
+> Sou Desenvolvedor De PHP Mais Especialmente No Campo De Montar Plugins Para PocketMine
+> Moro Em Salto De Pirapora, Tenho 12 Anos 🎉✨
+> Minhas Criações São: Help & M4SHIELDPMMP5
+
+⚜️ Pitu
