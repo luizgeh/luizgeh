@@ -20,6 +20,6 @@
 <h3 align="left">Languages</h3>
 <p> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizg_pitu&show_icons=true&locale=en&layout=compact" alt="luizg_pitu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frpitu&show_icons=true&locale=en" alt="luizg_pitu"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizg_pitu&show_icons=true&locale=en&layout=compact" alt="luizg_pitu"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=luizg_pitu&show_icons=true&locale=en" alt="luizg_pitu"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizg_pitu&" alt="luizg_pitu" /></p>
