@@ -1,5 +1,5 @@
 <h1 align = 'center'>Hi! I'm Pitu</h1>
-<img align = 'center' src="./myphoto.jpg">
+<img align = 'center' src="./myprofile.jpg">
 <br></br>
 
 <h1 align = 'left'>About me: </h1>
