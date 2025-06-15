@@ -10,13 +10,13 @@
    <h2>Connect with me:</h2>
    <p>
       <a href="https://twitter.com/luizgeh" target="blank">
-         <img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" width="40" />
+         <img align="center" src="https://skillicons.dev/icons?i=x" height="30" width="40" />
       </a>
       <a href="https://youtube.com/@luizgeh" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=youtube" height="30" width="40" />
+        <img src="https://skillicons.dev/icons?i=youtube" height="30" width="40" />
       </a>
       <a href="https://instagram.com/luizgeh_" target="blank">
-        <img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
+        <img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" />
       </a>
    </p>
    <h2>Github stats:</h2>
