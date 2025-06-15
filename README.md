@@ -1,11 +1,11 @@
 <h1 align = 'center'>Hi! I'm Pitu</h1>
-<img align = 'center' src="./myprofile.jpg" height="500" width="500">
+<img align="center" src="./myprofile.jpg" height="500" width="500">
 <br></br>
 <h2 align = 'center'>About me: </h2>
-<p>I'm a PHP and JavaScript developer, I'm still learning how to create websites among other things, but I'm experienced in  PocketMine-MP plugins.</p>
+<p align = 'center>I'm a PHP and JavaScript developer, I'm still learning how to create websites among other things, but I'm experienced in  PocketMine-MP plugins.</p>
 <br></br>
 <h2 align = 'center'>Languanges and tools: <h2>
-<img src = 'https://skillicons.dev/icons?i=php,js,npm,git'>
+<img align = 'center' src = 'https://skillicons.dev/icons?i=php,js,npm,git'>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
    <a href="https://twitter.com/luizgeh" target="blank">
