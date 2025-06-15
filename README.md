@@ -1,4 +1,4 @@
-<p align = 'center>
+<p align = 'center'>
    <h1>Hi! I'm Pitu</h1>
    <img src="./myprofile.jpg" height="500" width="500">
    <br></br>
