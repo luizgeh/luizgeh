@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Hi, i'm Luiz G.</h1>
-<br></br>
 
 # About me:
 I'm a PHP and JavaScript developer. I started with PocketMin-MP plugins and I'm still doing it
