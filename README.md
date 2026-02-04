@@ -4,7 +4,7 @@
 I'm a PHP and JavaScript developer. I started with PocketMin-MP plugins and I'm still doing it</p>
 # My links:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://dsc.gg/luizgeh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/luizgeh)
+[!![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=flat)](https://x.com/luizgeh)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@luizgeh)
 
 # My languages
