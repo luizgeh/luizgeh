@@ -16,9 +16,4 @@ I'm a 13 y.o PocketMine Plugins Developer from Brazil
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-# Github stats:
-![stats 1](https://github-readme-stats.vercel.app/api?username=luizgeh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
-![stats 2](https://github-readme-streak-stats.herokuapp.com/?user=luizgeh&theme=highcontrast&hide_border=false)
-![stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgeh&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
